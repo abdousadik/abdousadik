@@ -12,6 +12,7 @@
   <img alt="phpmyadmin" src="https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white" />
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="mariadb" src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white" />
+  <img alt="redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img alt="sqlserver" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=sqlserver&logoColor=white" />
   <img alt="composer" src="https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
@@ -23,6 +24,7 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="linux" src="https://img.shields.io/badge/-Linux-grey?style=flat-square&logo=linux&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="jenkins" src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white" />
 </p>
 <!--
 **abdousadik/abdousadik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
