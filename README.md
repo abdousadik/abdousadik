@@ -5,6 +5,8 @@
 <h3>When I code, I rely on</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="css" src="https://img.shields.io/badge/CSS-264DE4?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
   <img alt="php" src="https://img.shields.io/badge/-PHP-3776AB?style=flat-square&logo=php&logoColor=white" />
   <img alt="symfony" src="https://img.shields.io/badge/Symfony-black?style=flat-square&logo=symfony&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
