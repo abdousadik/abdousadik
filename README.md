@@ -9,6 +9,10 @@
   <img alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
   <img alt="php" src="https://img.shields.io/badge/-PHP-3776AB?style=flat-square&logo=php&logoColor=white" />
   <img alt="symfony" src="https://img.shields.io/badge/Symfony-black?style=flat-square&logo=symfony&logoColor=white" />
+  <img alt="phpmyadmin" src="https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white" />
+  <img alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="mariadb" src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white" />
+  <img alt="sqlserver" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=sqlserver&logoColor=white" />
   <img alt="composer" src="https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
