@@ -25,6 +25,8 @@
   <img alt="linux" src="https://img.shields.io/badge/-Linux-grey?style=flat-square&logo=linux&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="jenkins" src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white" />
+  <img alt="tailwind-css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img alt="jwt" src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens&logoColor=white" />
 </p>
 <!--
 **abdousadik/abdousadik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
