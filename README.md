@@ -28,6 +28,20 @@
   <img alt="tailwind-css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img alt="jwt" src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens&logoColor=white" />
 </p>
+
+🚀 Backend Engineer with 5+ years of experience building scalable and user-friendly web applications.
+💻 Skilled in PHP (specializing in Symfony), MySQL, HTML/CSS, jQuery, and React.js.
+🌐 Experienced in designing and developing secure, robust REST APIs for seamless communication between systems.
+🛠 Passionate about creating robust, maintainable backend solutions, delivering seamless API integrations, and exploring new technologies.
+
+🎯 Excited to tackle challenging projects that drive innovation and deliver impact.
+
+🔍 Always eager to collaborate on groundbreaking ideas and forward-thinking solutions!
+
+📫 <strong>Get in touch:</strong> 
+<a href="https://www.linkedin.com/in/sadik-abdelfattah" target="_blank">LinkedIn</a> | 
+<a href="mailto:fox.sadik@gmail.com">Email</a>
+
 <!--
 **abdousadik/abdousadik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
