@@ -29,14 +29,14 @@
   <img alt="jwt" src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens&logoColor=white" />
 </p>
 
-🚀 Backend Engineer with 5+ years of experience building scalable and user-friendly web applications.
-💻 Skilled in PHP (specializing in Symfony), MySQL, HTML/CSS, jQuery, and React.js.
-🌐 Experienced in designing and developing secure, robust REST APIs for seamless communication between systems.
-🛠 Passionate about creating robust, maintainable backend solutions, delivering seamless API integrations, and exploring new technologies.
+🚀 Backend Engineer with 5+ years of experience building scalable and user-friendly web applications.<br/>
+💻 Skilled in PHP (specializing in Symfony), MySQL, HTML/CSS, jQuery, and React.js.<br/>
+🌐 Experienced in designing and developing secure, robust REST APIs for seamless communication between systems.<br/>
+🛠 Passionate about creating robust, maintainable backend solutions, delivering seamless API integrations, and exploring new technologies.<br/>
 
-🎯 Excited to tackle challenging projects that drive innovation and deliver impact.
+🎯 Excited to tackle challenging projects that drive innovation and deliver impact.<br/>
 
-🔍 Always eager to collaborate on groundbreaking ideas and forward-thinking solutions!
+🔍 Always eager to collaborate on groundbreaking ideas and forward-thinking solutions!<br/>
 
 📫 <strong>Get in touch:</strong> 
 <a href="https://www.linkedin.com/in/sadik-abdelfattah" target="_blank">LinkedIn</a> | 
