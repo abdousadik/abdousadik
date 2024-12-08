@@ -32,7 +32,7 @@
 </p>
 
 🚀 Backend Engineer with 5+ years of experience building scalable and user-friendly web applications.<br/>
-💻 Skilled in PHP (specializing in Symfony), MySQL, HTML/CSS, jQuery, and React.js.<br/>
+💻 Skilled in PHP (specializing in Symfony), MySQL, HTML/CSS and jQuery.<br/>
 🌐 Experienced in designing and developing secure, robust REST APIs for seamless communication between systems.<br/>
 🧠 I'm learning React.JS, Next.JS, Node.JS & Docker.
 🛠 Passionate about creating robust, maintainable backend solutions, delivering seamless API integrations, and exploring new technologies.<br/>
